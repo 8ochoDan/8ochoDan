@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @8ochoDan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Daniel Ochoa
+
+  
+- 👀 I’m interested in developing videogames and applications
+
+
+- 🌱 I’m currently learning various programming languages
+
+  
 
 <!---
 8ochoDan/8ochoDan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
